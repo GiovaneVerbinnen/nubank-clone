@@ -2,6 +2,7 @@
 
 A Quasar Framework app
 
+![Live Link](https://nubank-quasar.netlify.app/)
 
 ![](src/assets/tela_inicial.PNG)
 ## Install the dependencies
