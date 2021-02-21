@@ -3,7 +3,7 @@
 A Quasar Framework app
 
 
-![](https://github.com/GiovaneVerbinnen/nubank-clone/tree/master/src/assets/tela_inicial.PNG)
+![](src/assets/tela_inicial.PNG)
 ## Install the dependencies
 ```bash
 yarn
